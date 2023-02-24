@@ -34,4 +34,4 @@ class MainViewModel @Inject constructor(
         composeDisposable.dispose()
     }
 
-}a\
+}
